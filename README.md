@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi! I'm Jóse 🏳️
 
-<!--
-**josequiceno2000/josequiceno2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚒️ Working on my natural language processing application for biblical translations, [logoi](https://github.com/josequiceno2000/logoi "The ultimate NLP tool for biblical research").
+- 🐍 Been coding primarily in Python.
+- 📊 Currently learning specialized libraries like NLTK.
 
-Here are some ideas to get you started:
+After diving into several coding pools (Go, C++, JavaScript, etc.) I have found a singular knack and love for data science and natural language processing in Python. The dream would be to work in backend web development writing Go or Python. I'd especially love to work for a company that:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Values continuing education.
+2. Provides mentorship and expects commitment from employees.
+3. Lives on the cutting edge of linguistics or data science.
+
+**If you're hiring, let's chat!** 🚀
