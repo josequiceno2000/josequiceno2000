@@ -1,15 +1,16 @@
-## Hi! I'm Jóse 🏳️
+# Jose's Cybersecurity Portfolio 
 
-- ⚒️ Working on my natural language processing application for biblical translations, [logoi](https://github.com/josequiceno2000/logoi "The ultimate NLP tool for biblical research").
-- 🐍 Been coding primarily in Python.
-- 📊 Currently learning specialized libraries like NLTK.
+Working in cyber is thrilling to me. I love competing in challenges and sharing knowledge with the community. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
-After diving into several coding pools (Go, C++, JavaScript, etc.) I have found a singular knack and love for data science and natural language processing in Python. The dream would be to work in backend web development writing Go or Python. 
+## 🔐 IAM (Identity and Access Management)
+- 
 
-I'd especially love to work for a company that:
+## 📐 GRC (Governance, Risk Management, and Compliance)
+-
 
-1. Values continuing education.
-2. Provides mentorship and expects commitment from employees.
-3. Lives on the cutting edge of linguistics or data science.
+## ⚠️ Vulnerability Management 
+-
 
-**If you're hiring, let's chat!** 🚀
+## 🚨 Threat Hunting and Security Operations
+- 
+
