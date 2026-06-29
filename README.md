@@ -1,6 +1,8 @@
 # Jose's Cybersecurity Portfolio 
 
-Working in cyber is thrilling to me. I love competing in challenges and sharing knowledge with the community. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+## Professional Statement
+
+Competitive, highly educated cybersecurity professional with years of experience in Python, SQL, and other programming languages. My passion is for protecting human dignity, specifically digital privacy and digital ownership rights. The goal is to protect individuals from cyber threats in the age of AI, especially scams and ransomware attacks.
 
 ## 🔐 IAM (Identity and Access Management)
 - 
