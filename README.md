@@ -13,7 +13,7 @@ Competitive, highly educated cybersecurity professional with years of experience
 
 ## ⚠️ Vulnerability Management 
 - **[AWS Linux Hardening Lab](https://github.com/josequiceno2000/linux-hardening-fundamentals)**
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Vulnerability Management Program Implementation](https://github.com/josequiceno2000/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
