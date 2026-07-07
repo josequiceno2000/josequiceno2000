@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/josequiceno2000/">Jose Quiceno</a> Cybersecurity Portfolio 🛡️
+# <a href="https://www.linkedin.com/in/josequiceno2000/">Jose Quiceno</a> Portfolio 🛡️
 
 Competitive, highly educated cybersecurity professional with years of experience in Python, SQL, and other programming languages. I protect human dignity and autonomy in the age of AI, specifically digital privacy and digital ownership rights. The goal is to protect individuals from ever-increasing cyber threats, especially scams and ransomware attacks.
 
@@ -12,7 +12,9 @@ Competitive, highly educated cybersecurity professional with years of experience
 -
 
 ## ⚠️ Vulnerability Management 
-- [AWS Linux Hardening Lab](https://github.com/josequiceno2000/linux-hardening-fundamentals)
+- **[AWS Linux Hardening Lab](https://github.com/josequiceno2000/linux-hardening-fundamentals)**
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 - 
