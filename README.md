@@ -3,8 +3,6 @@
 Competitive, highly educated cybersecurity professional with years of experience in Python, SQL, and other programming languages. I protect human dignity and autonomy in the age of AI, specifically digital privacy and digital ownership rights. The goal is to protect individuals from ever-increasing cyber threats, especially scams and ransomware attacks.
 
 ## Cyber
-### 🧠 AI / ML
-- 
 
 ### 🔐 IAM (Identity and Access Management)
 - 
@@ -23,7 +21,12 @@ Competitive, highly educated cybersecurity professional with years of experience
 <hr/>
 
 ## Data Science
+- 
 
+<hr />
+
+## Python
+- 
 
 ## 📟 Connect With Me
 
