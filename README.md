@@ -18,12 +18,10 @@ Competitive, highly educated cybersecurity professional with years of experience
 ### 🚨 Threat Hunting and Security Operations
 - 
 
-<hr/>
 
 ## Data Science
 - 
 
-<hr />
 
 ## Python
 - 
